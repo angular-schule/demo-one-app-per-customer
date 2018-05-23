@@ -1,3 +1,4 @@
+import { SharedLibModule } from 'shared-lib';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
@@ -10,7 +11,8 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    SharedLibModule
   ],
   providers: [],
   bootstrap: [AppComponent]
