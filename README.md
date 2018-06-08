@@ -10,6 +10,7 @@ How do we get one app per customer if we have 100+ customers?**
 Recently, I was asked during a training how to produce customer specific Angular apps.
 My first answer was: "That's easy: `NgModules`!". But how exactly? 🤔
 
+### see the full article: https://angular.schule/blog/2018-05-one-app-per-customer
 
 <hr>
 
