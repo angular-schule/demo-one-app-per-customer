@@ -1,3 +1,18 @@
+![header](https://angular-schule.github.io/website-articles/blog/2018-05-one-app-per-customer/100-apps.png)
+
+**In this article, I will discuss some ideas how to produce individual Angular apps.
+How do we get one app per customer if we have 100+ customers?**
+
+
+Recently, I was asked during a training how to produce customer specific Angular apps.
+My first answer was: "That's easy: `NgModules`!". But how exactly? 🤔
+
+
+<hr>
+
+
+
+
 # OneAppPerCustomer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
